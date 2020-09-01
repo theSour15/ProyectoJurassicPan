@@ -131,11 +131,11 @@ and open the template in the editor.
 
 .visible{
     display: block;
-    width: 65.4vw;
+    width: 40vw;
     position: fixed;
     z-index: 999;
-    top: 12%;
-    left: 25%;
+    top: 2.5vh;
+    left: 16.5vw;
     padding: 1vw;
 }
 
